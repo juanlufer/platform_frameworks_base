@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2019 The PixelDust Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	
+    <string-array name="type_clock_hours">
+        <item>las doce</item>
+        <item>la una</item>
+        <item>las dos</item>
+        <item>las tres</item>
+        <item>las cuatro</item>
+        <item>las cinco</item>
+        <item>las seis</item>
+        <item>las siete</item>
+        <item>las ocho</item>
+        <item>las nueve</item>
+        <item>las diez</item>
+        <item>las once</item>
+        <item>las doce</item>
+        <item>las trece</item>
+        <item>las catorce</item>
+        <item>las quince</item>
+        <item>las dieciséis</item>
+        <item>las diecisiete</item>
+        <item>las dieciocho</item>
+        <item>las diecenueve</item>
+        <item>las veinte</item>
+        <item>las veintiuna</item>
+        <item>las veintidós</item>
+        <item>las veintitres</item>
+    </string-array>
+
+    <string-array name="type_clock_minutes">
+        <item>en punto</item>
+        <item>y una</item>
+        <item>y dos</item>
+        <item>y tres</item>
+        <item>y cuatro</item>
+        <item>y cinco</item>
+        <item>y seis</item>
+        <item>y seite</item>
+        <item>y ocho</item>
+        <item>y nueve</item>
+        <item>y diez</item>
+        <item>y once</item>
+        <item>y doce</item>
+        <item>y trece</item>
+        <item>y catorce</item>
+        <item>y cuarto</item>
+        <item>y dieciséis</item>
+        <item>y diecisiete</item>
+        <item>y dieciocho</item>
+        <item>y diecinueve</item>
+        <item>y viente</item>
+        <item>y veintiuna</item>
+        <item>y veintidós</item>
+        <item>y veintitres</item>
+        <item>y veinticuatro</item>
+        <item>y veinticinco</item>
+        <item>y veintiseis</item>
+        <item>y veintisiete</item>
+        <item>y veintiocho</item>
+        <item>y veintinueve</item>
+        <item>y media</item>
+        <item>y treinta y uno</item>
+        <item>y treinta y dos</item>
+        <item>y treinta y tres</item>
+        <item>y treinta y cuatro</item>
+        <item>y treinta y cinco</item>
+        <item>y treinta y sies</item>
+        <item>y treinta y siete</item>
+        <item>y treinta y ocho</item>
+        <item>y treinta y nueve</item>
+        <item>y cuarenta</item>
+        <item>y cuarenta y uno</item>
+        <item>y cuarenta y dos</item>
+        <item>y cuarenta y tres</item>
+        <item>y cuarenta y cuatro</item>
+        <item>menos cuarto</item>
+        <item>y cuarenta y sies</item>
+        <item>y cuarenta y siete</item>
+        <item>y cuarenta y ocho</item>
+        <item>y cuarenta y nueve</item>
+        <item>y cincuenta</item>
+        <item>y cincuenta y uno</item>
+        <item>y cincuenta y dos</item>
+        <item>y cincuenta y tres</item>
+        <item>y cincuenta y cuatro</item>
+        <item>y cincuenta y cinco</item>
+        <item>y cincuenta y sies</item>
+        <item>y cincuenta y siete</item>
+        <item>y cincuenta y ocho</item>
+        <item>y cincuenta y nueve</item>
+    </string-array>
+</resources>
